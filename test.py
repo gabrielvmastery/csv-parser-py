@@ -1,14 +1,22 @@
 from datetime import datetime
 import os
-file_path = <PASS YOUR FILE HERE>
-outputFile = 'ML_' + str(datetime.now().strftime('%Y%m%d_%H%M%S')) + '.csv'
+import csv
+#file_path = <PASS YOUR FILE HERE>
+HEADERS = ['Load','CompletionTime']
 
-with open('H:\Results.csv','r') as openFile:
-    with open('H:\Output.csv','w') as writeFile:
+outputFile = 'MasteryOutput_' + str(datetime.now().strftime('%Y%m%d_%H%M%S')) + '.csv'
+
+with open('LoadsTable.csv','r') as openFile:
+    with open('Output2.csv','w', newline='') as csvFile:
         for line in openFile:
-            #split line by comma and compare first column, can be modified depending on given file            
-            cleanline = line.strip('\n')
-            column =  cleanline.split(',')
+            l = line.strip('\n')
+            c =  l.split(',')
 
+            #for each in c:
+            #    print(each)
+            writer = csv.writer(csvFile)
+#           writer.writerow(HEADERS)
+            writer.writerow(c)
 
-
+openFile.close()
+csvFile.close()
