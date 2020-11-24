@@ -1,0 +1,57 @@
+﻿Route #,RAS,Origin,OST,PU Date,PU Time,Loaded Miles,Stops,Destination,DST,Del Date,Del Time,Equip
+458969,Active,Belvidere,IL,23-Nov,00:00 - 23:59,255,,Woodburn,IN,24-Nov,12:15,R
+458965,Active,Belvidere,IL,23-Nov,00:00 - 23:59,255,,Woodburn,IN,24-Nov,5:30,R
+458954,Active,Chicago,IL,23-Nov,00:00 - 23:59,798,,Enid,OK,25-Nov,00:00 - 23:59,R
+458871,Active,Rochelle,IL,23-Nov,00:00 - 23:59,384,,New Baltimore,MI,23-Nov,00:00 - 23:59,V
+458813,Active,Champaign,IL,23-Nov,00:00 - 23:59,777,,Disputanta,VA,25-Nov,00:00 - 23:59,R
+458794,Active,Granite City,IL,23-Nov,21:00,439,,Appleton,WI,24-Nov,5:00,"V, R"
+458792,Active,Rochelle,IL,23-Nov,00:00 - 23:59,569,,Memphis,TN,24-Nov,00:00 - 23:59,V
+458494,Active,Champaign,IL,23-Nov,16:00,684,,Salisbury,NC,25-Nov,20:30,R
+458482,Active,Elk Grove Village,IL,23-Nov,9:00,31,,Bedford Park,IL,23-Nov,13:30,V
+458480,Active,Elk Grove Village,IL,23-Nov,00:00 - 23:59,31,,Bedford Park,IL,23-Nov,13:00,V
+457542,Active,Chicago,IL,23-Nov,15:00,284,,La Crosse,WI,24-Nov,10:00,V
+457511,Active,Aurora,IL,23-Nov,20:30,272,,Olney,IL,24-Nov,14:34,R
+457410,Active,Effingham,IL,23-Nov,16:00,302,,West Jefferson,OH,24-Nov,7:00,V
+457117,Active,Rochelle,IL,23-Nov,17:30,379,,Louisville,KY,24-Nov,9:00,"V, R"
+456997,Active,Granite City,IL,23-Nov,19:00,482,,Albertville,AL,24-Nov,9:00,V
+456926,Active,Jacksonville,IL,23-Nov,15:00,822,,Canandaigua,NY,25-Nov,4:00,V
+456704,Active,Granite City,IL,23-Nov,10:00,668,,Madison,MN,24-Nov,10:00,"V, R"
+456629,Active,West Chicago,IL,23-Nov,00:00 - 23:59,91,,Oak Creek,WI,24-Nov,00:00 - 23:59,V
+456098,Active,Chicago,IL,23-Nov,15:00,284,,La Crosse,WI,24-Nov,8:00,V
+455818,Active,Bolingbrook,IL,23-Nov,17:00,751,,Center Valley,PA,25-Nov,1:00,V
+455816,Active,Bolingbrook,IL,23-Nov,17:00,751,,Center Valley,PA,25-Nov,1:00,V
+455613,Active,Manteno,IL,23-Nov,15:00,798,,Piscataway,NJ,25-Nov,7:30,R
+455436,Active,Champaign,IL,23-Nov,20:30,308,,Groveport,OH,24-Nov,9:30,V
+455416,Active,Ashton,IL,23-Nov,00:00 - 23:59,822,,Center Valley,PA,25-Nov,00:00 - 23:59,V
+455313,Active,Rochelle,IL,23-Nov,18:30,109,,Oconomowoc,WI,24-Nov,19:30,R
+455238,Active,Jacksonville,IL,23-Nov,17:00,795,,York,PA,25-Nov,7:00,V
+455237,Active,Bolingbrook,IL,23-Nov,17:00,492,,Mount Juliet,TN,25-Nov,1:00,V
+455136,Active,Bolingbrook,IL,23-Nov,9:00,902,,Denton,TX,24-Nov,23:30,V
+455134,Active,Bolingbrook,IL,23-Nov,11:00,902,,Denton,TX,24-Nov,23:30,V
+454780,Active,Rochelle,IL,23-Nov,00:00 - 23:59,273,,Olney,IL,24-Nov,18:34,R
+454743,Active,Chicago,IL,23-Nov,10:00,239,,Webberville,MI,23-Nov,23:30,R
+454736,Active,Chicago,IL,23-Nov,14:00,"1,178",,Haines City,FL,25-Nov,3:00,R
+454735,Active,Chicago,IL,23-Nov,11:00,"1,178",,Haines City,FL,25-Nov,2:00,R
+454525,Active,Aurora,IL,23-Nov,16:00,482,,Lincoln,NE,24-Nov,8:00,R
+454264,Active,Rochelle,IL,23-Nov,00:00 - 23:59,43,,Sterling,IL,24-Nov,4:35,R
+453702,Active,Huntley,IL,23-Nov,14:00,968,,Wilmer,TX,25-Nov,6:00,V
+453498,Active,Farina,IL,23-Nov,13:00,595,,North East,PA,24-Nov,8:00,R
+453138,Active,Belvidere,IL,23-Nov,07:00 - 19:00,390,,Springfield,OH,24-Nov,1:00,R
+452659,Active,Belvidere,IL,23-Nov,00:00 - 23:59,507,,Olathe,KS,24-Nov,00:00 - 23:59,R
+452658,Active,Belvidere,IL,23-Nov,07:00 - 19:00,507,,Olathe,KS,24-Nov,1:00,R
+452657,Active,Belvidere,IL,23-Nov,07:00 - 19:00,507,,Olathe,KS,24-Nov,1:00,R
+452430,Active,Des Plaines,IL,23-Nov,14:00,289,,Bellefontaine,OH,24-Nov,8:30,V
+451161,Active,East Dubuque,IL,23-Nov,00:00 - 23:59,"1,142",,Houston,TX,25-Nov,6:30,R
+449757,Active,Aurora,IL,23-Nov,17:45,926,,Milton,FL,25-Nov,7:00,R
+448134,Active,Effingham,IL,23-Nov,13:00,745,,Coal Township,PA,25-Nov,8:00,V
+446627,Active,Princeville,IL,23-Nov,00:00 - 23:59,866,,Center Valley,PA,20-Nov,00:00 - 23:59,V
+445376,Active,Quincy,IL,23-Nov,00:00 - 23:59,"1,488",,Tolleson,AZ,26-Nov,21:30,V
+435798,Active,Joliet,IL,23-Nov,7:00,116,,Darien,WI,24-Nov,5:00,R
+1000008711,Active,Bedford Park,IL,23-Nov,08:00 - 17:00,900,2,Robersonville,NC,24-Nov,09:00 - 17:00,V
+1000008405,Active,Bolingbrook,IL,23-Nov,0:00,206,2,Plainfield,IN,24-Nov,0:00,R
+1000008378,Active,Chicago,IL,23-Nov,17:30,219,2,Lansing,MI,24-Nov,0:00,R
+1000008374,Active,Chicago,IL,23-Nov,17:30,321,3,Hamtramck,MI,24-Nov,08:00 - 12:00,R
+1000008370,Active,Chicago,IL,23-Nov,17:30,303,2,Tipp City,OH,24-Nov,02:00 - 06:00,R
+1000008290,Active,Minooka,IL,23-Nov,0:00,709,3,York,PA,25-Nov,0:00,R
+1000007966,Active,University Park,IL,23-Nov,18:00,766,3,Aberdeen,MD,25-Nov,23:00,R
+1000007562,Active,Geneva,IL,23-Nov,20:30,82,2,Sturtevant,WI,24-Nov,0:00,R
