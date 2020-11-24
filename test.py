@@ -1,10 +1,10 @@
 from datetime import datetime
 import os
 import csv
-#file_path = <PASS YOUR FILE HERE>
+
 HEADERS = ['Load','CompletionTime']
 
-outputFile = 'MasteryOutput_' + str(datetime.now().strftime('%Y%m%d_%H%M%S')) + '.csv'
+#outputFile = 'MasteryOutput_' + str(datetime.now().strftime('%Y%m%d_%H%M%S')) + '.csv'
 
 with open('LoadsTable.csv','r') as openFile:
     with open('Output2.csv','w', newline='') as csvFile:
@@ -13,10 +13,11 @@ with open('LoadsTable.csv','r') as openFile:
             c =  l.split(',')
 
             #for each in c:
-            #    print(each)
+            #    test for "" cases
             writer = csv.writer(csvFile)
 #           writer.writerow(HEADERS)
             writer.writerow(c)
+            print(c)
 
 openFile.close()
 csvFile.close()
