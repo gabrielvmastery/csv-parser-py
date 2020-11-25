@@ -14,9 +14,10 @@ with open('LoadsTable.csv','r') as openFile:
             #for each in c:
             #    if each == ": 
             writer = csv.writer(csvFile)
-#           writer.writerow(HEADERS)
             writer.writerow(c)
             print(c)
 
+            #           writer.writerow(HEADERS)
+            
 openFile.close()
 csvFile.close()
