@@ -2,7 +2,7 @@ from datetime import datetime
 import os
 import csv
 
-HEADERS = ['Load','CompletionTime']
+#HEADERS = ['Load','CompletionTime']
 
 with open('LoadsTable.csv','r') as openFile:
     with open(str(datetime.now().strftime('%Y%m%d_%H%M%S')) + '_mlogistics_' + '.csv','w', newline='') as csvFile:
